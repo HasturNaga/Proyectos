@@ -1,3 +1,37 @@
+
+# Primros numeros
+
+n = int(input("\n Ingrese la canridad de numeros a sumar:"))
+suma = 0
+for i in range(n):
+    print(i)
+    suma += i
+print(f"La suma es: {suma}")
+
+# Salario
+salario = 0
+sumaSalario = 0
+
+for i in range(5):
+    horasTrabajada = float(input(f"Ingrese la cantidad de horas trabajadas del empleado {i + 1}: "))
+    tarifacA.S,FAHora = float(input("Ingrese el precio por hora de este empleado"))
+    salario = horasTrabajada * tarifaHora
+    print(f"El salario del mpleado {i} es de${salario}")
+    sumaSalario += salario
+
+print(f"La suma de todos los salarios es de: {sumaSalario}")
+
+# Factorial
+fact = 1
+num = int(input("Ingrese el numero para calcular el fatorial: "))
+while num <= 0:
+    print("El numero ingresado es menor o igual a cero, vuelva a ingresarlo: ")
+    num = int(input("Ingrese el numero para calcular el fatorial: "))
+
+for i in range(num):
+    fact += fact * i
+    print(f"El factorial del numero ingresado es: {fact}")
+
 # Año bisiesto
 anio = int(input("Ingrese un año"))
 if (anio %4 == 0 and anio % 100 != 0) or anio % 400 == 0:
