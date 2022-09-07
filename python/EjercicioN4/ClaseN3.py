@@ -24,6 +24,7 @@ print(conjunto3)
 conjunto3 = conjunto2 - conjunto1
 print(conjunto3)
 
+
 conjunto3 = conjunto1 ^ conjunto2
 print(conjunto3)
 
@@ -58,13 +59,13 @@ print(diccionario2)
 seleccionArgentina = {
     10: {'Nombre': 'Lionel Messi', 'Edad': 35, 'Altura': 1.70, 'Precio': '50 millones', 'Posicion': 'Extremo Derecho'},
     11: {'Nombre': 'Angel Di Maria', 'Edad': 34, 'Altura': 1.80, 'Precio': '12 millones', 'Posicion': 'Extremo Derecho'},
-    24: {'Nombre': 'Paulo Dybala', 'Edad': 28, 'Altura': 1.77, 'Precio': '35 millones', 'Posicion': 'Media Punta'},
+    21: {'Nombre': 'Paulo Dybala', 'Edad': 28, 'Altura': 1.77, 'Precio': '35 millones', 'Posicion': 'Media Punta'},
     19: {'Nombre': 'Nicolas Otamendi', 'Edad': 34, 'Altura': 1.83, 'Precio': '3.5 millones', 'Posicion': 'Defensa Central'},
     1:  {'Nombre': 'Franco Armani', 'Edad': 35, 'Altura': 1.89, 'Precio': '3.5 millones', 'Posicion': 'Portero'},
     26: {'Nombre': 'Nahuel Molina', 'Edad': 24, 'Altura': 1.80, 'Precio': '20 millones', 'Posicion': 'Lateral Derecho'},
     7: {'Nombre': 'Rodrigo De Paul', 'Edad': 28, 'Altura': 1.75, 'Precio': '40 millones', 'Posicion': 'Mediocentro'},
     14: {'Nombre': 'Exequiel Palacio', 'Edad': 23, 'Altura': 1.72, 'Precio': '15 millones', 'Posicion': 'Mediocentro'},
-    19: {'Nombre': 'Joaquin Corea', 'Edad': 28, 'Altura': 1.81, 'Precio': '23 millones', 'Posicion': 'Mediapunta'}
+    12: {'Nombre': 'Joaquin Corea', 'Edad': 28, 'Altura': 1.81, 'Precio': '23 millones', 'Posicion': 'Mediapunta'}
 }
 
 for llave, valor in seleccionArgentina.items():
@@ -113,4 +114,8 @@ print(cola)
 seRetira = cola.pop(0)
 print(f'Atendido el cliente: {seRetira}')
 print(cola)
+
+# Seguimos mostrando como reecorrer un diccionario con el ciclo for
+for i in seleccionArgentina:
+    print(f'{i} -> {seleccionArgentina[i]}')
 

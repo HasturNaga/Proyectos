@@ -44,7 +44,7 @@ nombres.clear()
 print(nombres)
 
 del nombres
-print(nombres)
+# print(nombres)
 
 # Definir tuplas
 cocina = ('Cuchara','Cuchilo','Tenedor')
@@ -70,7 +70,7 @@ cocina = tuple(cocinaLista)
 print('\n', cocina)
 
 # Ejercicio de tupla
-tupla = ('13', '1', '8', '3', '2', '5', '8')
+tupla = (13, 1, 8, 3, 2, 5, 8)
 
 lista = []
 
@@ -102,9 +102,9 @@ del planetas
 
 # Diccionario
 diccionario = {
-    'IDE':'Integrated Development Enviroment',
-    'POO':'Programacion Orientada a Objetos',
-    'SABD':'Sistema de Administracion de Base de Datos'
+    'IDE': 'Integrated Development Enviroment',
+    'POO': 'Programacion Orientada a Objetos',
+    'SABD': 'Sistema de Administracion de Base de Datos'
 }
 print(len(diccionario))
 print(diccionario)
@@ -141,7 +141,7 @@ diccionario['PK'] = 'Primary key'
 print(diccionario)
 
 # Eliminar un elemento
-diccionario.pop()
+diccionario.pop('SABD')
 print(diccionario)
 
 #Vaciar un diccionario
