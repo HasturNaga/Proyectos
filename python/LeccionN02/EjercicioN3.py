@@ -1,7 +1,7 @@
 
-# Primros numeros
+# Primeros numeros
 
-n = int(input("\n Ingrese la canridad de numeros a sumar:"))
+n = int(input("\n Ingrese la cantidad de numeros a sumar:"))
 suma = 0
 for i in range(n):
     print(i)

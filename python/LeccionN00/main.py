@@ -209,7 +209,7 @@ if envioGratuito == "True":
 elif envioGratuito == "False":
     envioGratuito = False
 else:
-     envioGratuito = "El valor es incorreto, debe escribir True/false"
+     envioGratuito = "El valor es incorrecto, debe escribir True/false"
 print(f'''
         Nombre: {nombre}
         Id: {id}

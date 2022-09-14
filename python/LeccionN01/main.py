@@ -1,4 +1,12 @@
 
+condicion = "Hola alumnos"
+if (condicion == True):
+    print("Condicion Verdadera")
+elif (condicion == False):
+    print("Condicion Falsa")
+else:
+    print("Condicion no especificada")
+
 num = int(input("Digite un numero en el rango de 1 a 3"))
 numTexto = ''
 if num == 1:
