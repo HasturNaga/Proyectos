@@ -29,16 +29,7 @@ P = {'Nombre': 'Gimli', 'Clase': 'Gerrero', 'Raza': 'Enano'}
 personajes.append(P)
 print(personajes)
 
-# Dada la siguiente tupla
-tupla = (13, 1, 8, 3, 2, 5, 8)
-# e imprimir por consola [1, 3, 2]
 
-lista = []
-# Filtramos los elementos menores a 5 de la tupla
-for elemento in tupla:
-    if elemento < 5:
-        lista.append(elemento)
-print(lista)
 
 # Ejercicio de matematica
 # Para sacar la raiz cuadrada de un numero positivo
