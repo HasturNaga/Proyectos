@@ -6,9 +6,9 @@ lista = list(range(1, 11))
 print('Lista original')
 for i in lista:
     print(i, end='-')
+valor = int(input('\nDigite un valor a multiplicar: '))
 
-valor = int(input('\nDigite un valor a multiplicar '))
-# Multiplicamos todos los lmentos de la lista
+# Multiplicamos todos los elementos de la lista
 for indice, i in enumerate(lista):
     lista[indice] *= valor
 

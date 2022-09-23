@@ -13,7 +13,7 @@ import math
 # Clase: Arquero
 # Raza: Elfo Sindar
 
-personajes = []
+personajes = [] # Creamos lista vacia.
 # Creamos diccionarios
 P = {'Nombre': 'Aragon', 'Clase': 'Guerrero', 'Raza': 'Dunadan del Norte'}
 personajes.append(P)
@@ -28,15 +28,3 @@ personajes.append(P)
 P = {'Nombre': 'Gimli', 'Clase': 'Gerrero', 'Raza': 'Enano'}
 personajes.append(P)
 print(personajes)
-
-
-
-# Ejercicio de matematica
-# Para sacar la raiz cuadrada de un numero positivo
-numero = int(input('Digite un numero positivo'))
-while numero < 0:
-    print('Error -> Deberia ser un numero positivo')
-    numero = int(input('Digite un numero positivo: '))
-print(f'\nSu raiz cuadrada es: {math.sqrt(numero):.2f}')
-
-

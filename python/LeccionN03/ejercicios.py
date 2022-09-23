@@ -1,3 +1,4 @@
+import math
 # Ejercicio 1: iterar un rango de 0 a 10 numeros divisibles entre 3
 # Ejemplo de ejecucion: 0, 3, 6, 9
 print('Rango de 0 a 10 con numeros divisibles entre 3')
@@ -46,6 +47,8 @@ print('\n', cocina)
 
 del cocina
 
+# Definimos la lista
+# Filtramos los lementos menores a 5 de la tupla
 tupla = (1, 2, 3, 4, 5)
 lista = []
 for elemento in tupla:
@@ -53,4 +56,10 @@ for elemento in tupla:
         lista.append(elemento)
 print(lista)
 
-
+# Ejercicio de matematica
+# Para sacar la raiz cuadrada de un numero positivo
+numero = int(input('Digite un numero positivo'))
+while numero < 0:
+    print('Error -> Deberia ser un numero positivo')
+    numero = int(input('Digite un numero positivo: '))
+print(f'\nSu raiz cuadrada es: {math.sqrt(numero):.2f}')
