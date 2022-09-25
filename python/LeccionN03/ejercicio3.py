@@ -1,6 +1,7 @@
-# Ejercicio 3: insertar elementos y ordenarlos
-# Pedir numeros y meterlos en una lista, cuando el usuario
-# introduca un numero 0, nuestro programa
+# Ejercicio 3: insertar elementos y ordenarlos.
+# Pedir numeros y meterlos en una lista, cuando el usuario.
+# introduca un numero 0, nuestro programa dejara de insertar.
+# Por ultimo, mostrar los numeeros ordenados de menor a mayor.
 lista = []
 salir = False
 while not salir:
