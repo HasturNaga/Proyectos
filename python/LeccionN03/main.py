@@ -339,3 +339,69 @@ print(cola)
 
 for i in seleccionArgentina:
     print(f'{i} -> {seleccionArgentina}')
+
+# Comenzamos con funciones
+# Definir la funcion
+def mi_funcion():
+    print('saludos a todos los alumnos de la tecnicatura')
+
+mi_funcion()
+
+# Desempaquetado de lista
+def show(name, lastName):
+    print(name + ' ' + lastName)
+person = ['Ariel', 'Betancud']
+show(person[0], person[1])
+show(*person)
+person2 = ('Osvaldo', 'Giordanini')
+show(*person2)
+person3 = {'lastName': 'Lucero', 'name': 'Natalia'}
+show(**person3)
+
+numbers = [1, 2, 3, 4, 5]
+for n in numbers:
+    print(n)
+else:
+    print('Esto se termino.')
+
+# Lista de compresion
+names = ['Paolo', 'Rodrigo', 'Lupo', 'Pepe']
+alongP = [p for p in names if p[0] == 'P']
+print(alongP)
+
+bottleC = [{'name': 'Quilmes', 'country': 'Arg'},
+           {'name': 'Corona', 'country': 'Mx'},
+           {'name': 'Strlla Artois', 'country': 'Belgium'},
+           ]
+Arg = [b for b in bottleC if b['country'] == 'Arg']
+print(Arg)
+print(bottleC)
+
+# Paso de agumentos (funciones)
+def mi_funcion2(name, lastName):
+    print('Saludos a todos lo ue ven a traves del canal de YouTube')
+    print(f'Nombre: {name}, Apellio: {lastName}')
+mi_funcion2('Jorge', 'Lucero')
+mi_funcion2('Ariel', 'Betancud')
+mi_funcion2('Analia', 'Pedrosa')
+
+# La palabra return en funcions
+# Creamos una funcion para sumar
+def suma(a, b):
+    return a + b
+    resultado = sumar(78, 22)
+# print(f'El resultado de la suma es: {resultado}')
+print(f'El resultado de la suma es: {suma(55, 45)}')
+
+def suma2(a = 0, b = 0):
+    return a + b
+resultado = suma2()
+print(f'Resultado de la suma: {resultado}')
+print(f'Resultado de la suma: {suma2(22, 66)}')
+
+# Argumento, variables en funcion
+def listarNombres(*nombres):
+    for nombre in nombres:
+        print(nombre)
+listarNombres('Lucas', 'Jose', 'Claudia', 'Rosa', 'Maria')
+listarNombres('Marcos', 'Daniel', 'Romina', 'Pepe', 'Marcela', 'Carlos')
