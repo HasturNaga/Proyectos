@@ -2,7 +2,7 @@
 Ejercicio1: leer y mostrar el cuadrado,
 repetir el proceso hasta que se ingrese un numero negativo.
 */
-package potenciaCuadradaN02;
+package potenciaCuadradaJO;
 
 import javax.swing.JOptionPane;
 

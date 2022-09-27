@@ -1,5 +1,5 @@
 
-package positivoNegativo;
+package positivoNegativoSc;
 
 import java.util.Scanner;
 

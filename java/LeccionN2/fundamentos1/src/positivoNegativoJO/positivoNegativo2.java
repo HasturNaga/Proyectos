@@ -1,5 +1,5 @@
 
-package positivoNegativo2;
+package positivoNegativoJO;
 
 import javax.swing.JOptionPane;
 
