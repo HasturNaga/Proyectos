@@ -4,11 +4,11 @@ y mostrar cuantos numeros se han introducido.
 Lo hacemos primero con la clave Scanner.
 Luego la hacemos con la clase JOptionPane.
 */
-package ciclosN06;
+package clasesYObjetosN4;
 
 import javax.swing.JOptionPane;
 
-public class ciclosN06 {
+public class ciclosN4Jo {
 
     public static void main(String[] args) {
         int numero, contador = 0;
