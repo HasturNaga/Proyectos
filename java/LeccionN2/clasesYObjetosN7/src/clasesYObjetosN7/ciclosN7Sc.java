@@ -6,7 +6,7 @@ package clasesYObjetosN7;
 
 import java.util.Scanner;
 
-public class ciclosNSc7 {
+public class ciclosN7Sc {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero = 0, contador = 0, suma = 0;
