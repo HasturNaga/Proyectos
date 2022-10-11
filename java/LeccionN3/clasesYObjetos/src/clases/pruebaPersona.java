@@ -4,13 +4,13 @@ package clases;
 public class pruebaPersona {
 
     public static void main(String[] args) {
-        persona persona1;
-        persona1 = new persona();
+        Persona persona1;
+        persona1 = new Persona();
         persona1.nombre = "Ricardo";
         persona1.apellido = "Modon";
         persona1.obtenerInformacion();
         
-        persona persona2 = new persona();
+        Persona persona2 = new Persona();
         System.out.println("persona2 = " + persona2);
         System.out.println("persona1 = " + persona1);
         persona2.obtenerInformacion();
