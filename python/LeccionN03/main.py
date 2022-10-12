@@ -405,3 +405,23 @@ def listarNombres(*nombres):
         print(nombre)
 listarNombres('Lucas', 'Jose', 'Claudia', 'Rosa', 'Maria')
 listarNombres('Marcos', 'Daniel', 'Romina', 'Pepe', 'Marcela', 'Carlos')
+
+# Recorrer una lista
+def desplegarNombres(nombres):
+    for nombre in nombres:
+        print(nombre)
+nombres2 = ['Tit0', 'Pedro', 'Carlos']
+desplegarNombres(nombres2)
+desplegarNombres('Carla')
+desplegarNombres((10, 11)) # Se convierte en una tupla
+desplegarNombres([22, 55]) # Se convierte en una lista
+
+# Funciones recursivas
+def factorial(numero):
+    if numero == 1:
+        return 1
+    else:
+        return numero * factorial(numero-1)
+numeroFactorial = int(input('Digite el numero para calcular el factorial: '))
+resultado = factorial(numeroFactorial)
+print(f'El factorial del numero 5 es: {resultado}')
