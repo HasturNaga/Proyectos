@@ -7,7 +7,7 @@ package CiclosN2;
 import javax.swing.JOptionPane;
 
 
-public class positivoNegativo2 {
+public class PositivoNegativo2 {
 
 
     public static void main(String[] args) {
