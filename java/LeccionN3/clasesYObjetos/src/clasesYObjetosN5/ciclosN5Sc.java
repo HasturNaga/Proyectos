@@ -10,7 +10,7 @@ package clasesYObjetosN5;
 
 import java.util.Scanner;
 
-public class ciclosN5Sc {
+public class CiclosN5Sc {
     
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

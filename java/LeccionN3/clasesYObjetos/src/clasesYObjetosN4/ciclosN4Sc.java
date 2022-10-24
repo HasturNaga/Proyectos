@@ -9,7 +9,7 @@ package clasesYObjetosN3;
 import java.util.Scanner;
 
 
-public class ciclosN4Sc {
+public class CiclosN4Sc {
 
     public static void main(String[] args) {
        int numero, contador = 0;

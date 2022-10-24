@@ -1,5 +1,8 @@
-
-package positivoNegativoJO;
+/*
+Ejercicio1: leer y mostrar el cuadrado,
+repetir el proceso hasta que se ingrese un numero negativo.
+ */
+package CiclosN2;
 
 import javax.swing.JOptionPane;
 

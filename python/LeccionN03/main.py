@@ -425,3 +425,4 @@ def factorial(numero):
 numeroFactorial = int(input('Digite el numero para calcular el factorial: '))
 resultado = factorial(numeroFactorial)
 print(f'El factorial del numero 5 es: {resultado}')
+

@@ -10,7 +10,7 @@ package clasesYObjetosN6;
 
 import javax.swing.JOptionPane;
 
-public class ciclosN5Jo {
+public class CiclosN5Jo {
 
     public static void main(String[] args) {
         int numero, aleatorio, contador = 0;

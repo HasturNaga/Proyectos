@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0968178-0727-481c-8c4d-faf8ee7e6fee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Cubo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/Rectangulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/ciclosDeJava/ciclos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/ciclosDeJava/ciclos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/positivoNegativoJO/positivoNegativo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/CiclosN2/positivoNegativo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/positivoNegativoSc/positivoNegativo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/potenciaCuadradaJO/potenciaCuadradaN02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN2/fundamentos1/src/potenciaCuadradaSc/potenciaCuadrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/CiclosN1/CiclosN1Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clases/persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clases/persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN3/ciclosN3Jo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN3/CiclosN3Jo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN3/ciclosN3Sc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN3/CiclosN3Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN4/ciclosN4Jo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN4/ciclosN4Jo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN4/ciclosN4Sc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN4/ciclosN4Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN5/ciclosN5Jo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN5/ciclosN5Jo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN5/ciclosN5Sc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN5/ciclosN5Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN6/ciclosN6Jo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN6/ciclosN6Jo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN6/ciclosN6Sc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java/LeccionN3/clasesYObjetos/src/clasesYObjetosN6/ciclosN6Sc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeccionN03/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeccionN03/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/Persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/Persona.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GQ9r7M3wWlgM8BcdXo5AnbxIF3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/LeccionN04.iml" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0968178-0727-481c-8c4d-faf8ee7e6fee" name="Changes" comment="" />
+      <created>1666310138286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666310138286</updated>
+    </task>
+    <servers />
+  </component>
+</project>

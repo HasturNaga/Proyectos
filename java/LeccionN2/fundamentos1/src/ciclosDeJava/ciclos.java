@@ -34,8 +34,6 @@ public class ciclos {
             }
             System.out.println("Contador = " + i);
         }
-        
-        
-        
+         
     }
 }

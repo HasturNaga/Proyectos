@@ -4,11 +4,11 @@ Para cada una indicar si es par o impar.
 Primro lo haremos con la clase Scanner.
 Luego con la clase JOptionPane
 */
-package clasesYObjetosN1;
+package clasesYObjetosN3;
 
 import java.util.Scanner;
 
-public class ciclosN3Sc {
+public class CiclosN3Sc {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int numero;

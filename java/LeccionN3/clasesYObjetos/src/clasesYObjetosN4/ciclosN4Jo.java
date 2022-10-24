@@ -8,7 +8,7 @@ package clasesYObjetosN4;
 
 import javax.swing.JOptionPane;
 
-public class ciclosN4Jo {
+public class CiclosN4Jo {
 
     public static void main(String[] args) {
         int numero, contador = 0;
