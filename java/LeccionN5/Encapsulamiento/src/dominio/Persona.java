@@ -1,13 +1,13 @@
-
 package dominio;
 
 public class Persona {
+
     //Atributos
     private String nombre;
     private double sueldo;
     private boolean eliminado;
-    
-    //Constutor
+
+    //Construtor
     public Persona(String nombre, double sueldo, boolean eliminado) {
         this.nombre = nombre;
         this.sueldo = sueldo;
@@ -42,5 +42,5 @@ public class Persona {
     public String toString() {
         return "Persona{" + "nombre=" + nombre + ", sueldo=" + sueldo + ", eliminado=" + eliminado + '}';
     }
-    
+
 }

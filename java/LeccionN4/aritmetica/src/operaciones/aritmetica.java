@@ -4,11 +4,11 @@ public class aritmetica {
 
     int a;
     int b;
-    
+
     public aritmetica() {
         System.out.println("Es esta ejecutando este constructor numero uno.");
     }
-    
+
     public aritmetica(int a, int b) {
         this.a = a;
         this.b = b;
@@ -24,9 +24,9 @@ public class aritmetica {
         //int resultado = a + b;
         return a + b;
     }
-    
+
     public int sumarConArgumento(int a, int b) {
-    
+
         this.a = a;
         this.b = b;
         return this.sumarConRetorno();

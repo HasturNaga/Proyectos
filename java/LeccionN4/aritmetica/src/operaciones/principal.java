@@ -3,8 +3,10 @@ package operaciones;
 public class principal {
 
     public static void main(String[] args) {
+
         int a = 10;
         int b = 7;
+
         miMetodo();
         aritmetica aritmetica1 = new aritmetica();
         aritmetica1.a = 3;
@@ -35,7 +37,7 @@ public class principal {
 }
 
 class Persona {
-
+    
     String nombre;
     String apellido;
 
@@ -53,7 +55,8 @@ class Persona {
         public Imprimir() {
             super();
         }
-        public void imprimir(Persona persona){
+
+        public void imprimir(Persona persona) {
             System.out.println("Persona dede la clase imprimir: " + persona);
             System.out.println("Impresion del objeto actual (this): " + this);
         }
